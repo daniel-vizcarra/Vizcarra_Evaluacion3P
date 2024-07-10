@@ -2,18 +2,20 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:local="clr-namespace:Evaluacion3PDV.ViewModels"
              x:Class="Evaluacion3PDV.Views.PopularArtistsPage">
+
     <ContentPage.BindingContext>
         <local:DVPopularArtistsViewModel />
     </ContentPage.BindingContext>
+
     <StackLayout>
         <ListView ItemsSource="{Binding Artists}">
             <ListView.ItemTemplate>
                 <DataTemplate>
                     <ViewCell>
                         <StackLayout>
-                            <Label Text="{Binding Name}" />
-                            <Image Source="{Binding ImageUrl}" />
-                            <Button Text="Save" Command="{Binding BindingContext.SaveArtistCommand, Source={x:Reference Name=page}}" CommandParameter="{Binding .}" />
+                            <Label Text="{Binding ArtistName}" FontSize="Medium" />
+                            <Image Source="{Binding Image}" HeightRequest="200" />
+                            <Button Text="Save" Command="{Binding Path=BindingContext.SaveArtistCommand, Source={RelativeSource AncestorType={x:Type ContentPage}}}" CommandParameter="{Binding .}" />
                         </StackLayout>
                     </ViewCell>
                 </DataTemplate>

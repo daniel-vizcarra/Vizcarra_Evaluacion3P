@@ -1,9 +1,14 @@
-namespace Evaluacion3PDV.Views;
+using Evaluacion3PDV.ViewModels;
+using Microsoft.Maui.Controls;
 
-public partial class PopularArtistsPage : ContentPage
+namespace Evaluacion3PDV.Views
 {
-	public PopularArtistsPage()
-	{
-		InitializeComponent();
-	}
+    public partial class PopularArtistsPage : ContentPage
+    {
+        public PopularArtistsPage()
+        {
+            InitializeComponent();
+            BindingContext = new DVPopularArtistsViewModel();
+        }
+    }
 }

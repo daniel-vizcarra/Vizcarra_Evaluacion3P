@@ -1,7 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?>
 <Shell xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
        xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+       xmlns:local="clr-namespace:Evaluacion3PDV.Views"
+       x:Class="Evaluacion3PDV.AppShell"
        Title="Evaluacion3PDV">
+
     <TabBar>
         <Tab Title="Popular Paintings">
             <ShellContent ContentTemplate="{DataTemplate local:PopularPaintingsPage}" />

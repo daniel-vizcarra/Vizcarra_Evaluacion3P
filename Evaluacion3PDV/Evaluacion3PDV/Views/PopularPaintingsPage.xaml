@@ -2,18 +2,20 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:local="clr-namespace:Evaluacion3PDV.ViewModels"
              x:Class="Evaluacion3PDV.Views.PopularPaintingsPage">
+
     <ContentPage.BindingContext>
         <local:DVPopularPaintingsViewModel />
     </ContentPage.BindingContext>
+
     <StackLayout>
         <ListView ItemsSource="{Binding Paintings}">
             <ListView.ItemTemplate>
                 <DataTemplate>
                     <ViewCell>
                         <StackLayout>
-                            <Label Text="{Binding Title}" />
-                            <Image Source="{Binding ImageUrl}" />
-                            <Button Text="Save" Command="{Binding BindingContext.SavePaintingCommand, Source={x:Reference Name=page}}" CommandParameter="{Binding .}" />
+                            <Label Text="{Binding Title}" FontSize="Medium" />
+                            <Image Source="{Binding Image}" HeightRequest="200" />
+                            <Button Text="Save" Command="{Binding Path=BindingContext.SavePaintingCommand, Source={RelativeSource AncestorType={x:Type ContentPage}}}" CommandParameter="{Binding .}" />
                         </StackLayout>
                     </ViewCell>
                 </DataTemplate>

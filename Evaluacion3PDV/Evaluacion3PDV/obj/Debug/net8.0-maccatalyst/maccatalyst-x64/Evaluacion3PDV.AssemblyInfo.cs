@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Evaluacion3PDV")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+b0c4276c8e356efac95056808eee4a703b626e2d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+0b9c23b8d4d93f1abe030d82a4420412b4e9f858")]
 [assembly: System.Reflection.AssemblyProductAttribute("Evaluacion3PDV")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Evaluacion3PDV")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

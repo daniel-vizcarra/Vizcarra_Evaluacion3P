@@ -16,9 +16,44 @@ namespace Evaluacion3PDV.Services
             _database.CreateTableAsync<DVArtist>().Wait();
         }
 
-        public Task<List<DVPainting>> GetPaintingsAsync() => _database.Table<DVPainting>().ToListAsync();
-        public Task<int> SavePaintingAsync(DVPainting painting) => _database.InsertAsync(painting);
-        public Task<List<DVArtist>> GetArtistsAsync() => _database.Table<DVArtist>().ToListAsync();
-        public Task<int> SaveArtistAsync(DVArtist artist) => _database.InsertAsync(artist);
+        public Task<List<DVPainting>> GetPaintingsAsync()
+        {
+            return _database.Table<DVPainting>().ToListAsync();
+        }
+
+        public Task<int> SavePaintingAsync(DVPainting painting)
+        {
+            return _database.InsertAsync(painting);
+        }
+
+        public Task<int> DeletePaintingAsync(DVPainting painting)
+        {
+            return _database.DeleteAsync(painting);
+        }
+
+        public Task<int> UpdatePaintingAsync(DVPainting painting)
+        {
+            return _database.UpdateAsync(painting);
+        }
+
+        public Task<List<DVArtist>> GetArtistsAsync()
+        {
+            return _database.Table<DVArtist>().ToListAsync();
+        }
+
+        public Task<int> SaveArtistAsync(DVArtist artist)
+        {
+            return _database.InsertAsync(artist);
+        }
+
+        public Task<int> DeleteArtistAsync(DVArtist artist)
+        {
+            return _database.DeleteAsync(artist);
+        }
+
+        public Task<int> UpdateArtistAsync(DVArtist artist)
+        {
+            return _database.UpdateAsync(artist);
+        }
     }
 }

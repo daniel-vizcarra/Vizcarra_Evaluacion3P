@@ -1,11 +1,13 @@
 ﻿using Newtonsoft.Json;
 using System.Collections.ObjectModel;
 using System.ComponentModel;
+using System.Linq;
 using System.Net.Http;
 using System.Runtime.CompilerServices;
 using System.Threading.Tasks;
 using Evaluacion3PDV.Models;
 using Evaluacion3PDV.Services;
+using Microsoft.Maui.Controls;
 
 namespace Evaluacion3PDV.ViewModels
 {
@@ -20,6 +22,7 @@ namespace Evaluacion3PDV.ViewModels
             Paintings = new ObservableCollection<DVPainting>();
             LoadPaintingsCommand = new Command(async () => await ExecuteLoadPaintingsCommand());
             SavePaintingCommand = new Command<DVPainting>(async (painting) => await SavePainting(painting));
+            LoadPaintingsCommand.Execute(null); // Cargar datos al iniciar el ViewModel
         }
 
         async Task ExecuteLoadPaintingsCommand()
@@ -27,7 +30,8 @@ namespace Evaluacion3PDV.ViewModels
             var client = new HttpClient();
             var response = await client.GetStringAsync("https://www.wikiart.org/en/popular-paintings?json=1&page=1");
             var paintings = JsonConvert.DeserializeObject<List<DVPainting>>(response);
-            foreach (var painting in paintings)
+            var topPaintings = paintings.Take(20); // Limitar a las primeras 20 pinturas
+            foreach (var painting in topPaintings)
             {
                 Paintings.Add(painting);
             }
@@ -35,7 +39,16 @@ namespace Evaluacion3PDV.ViewModels
 
         async Task SavePainting(DVPainting painting)
         {
+            var existingPaintings = await App.Database.GetPaintingsAsync();
+            if (existingPaintings.Any(p => p.Title == painting.Title))
+            {
+                await Shell.Current.DisplayAlert("Error", "The painting is already saved!", "OK");
+                return;
+            }
+
             await App.Database.SavePaintingAsync(painting);
+            MessagingCenter.Send(this, "UpdateSavedPaintings"); // Enviar un mensaje para actualizar la lista de pinturas guardadas
+            await Shell.Current.DisplayAlert("Saved", "The painting has been saved!", "OK");
         }
 
         public event PropertyChangedEventHandler PropertyChanged;

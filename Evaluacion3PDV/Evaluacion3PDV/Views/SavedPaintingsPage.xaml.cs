@@ -1,9 +1,13 @@
-namespace Evaluacion3PDV.Views;
+using Evaluacion3PDV.ViewModels;
 
-public partial class SavedPaintingsPage : ContentPage
+namespace Evaluacion3PDV.Views
 {
-	public SavedPaintingsPage()
-	{
-		InitializeComponent();
-	}
+    public partial class SavedPaintingsPage : ContentPage
+    {
+        public SavedPaintingsPage()
+        {
+            InitializeComponent();
+            BindingContext = new DVSavedPaintingsViewModel();
+        }
+    }
 }
