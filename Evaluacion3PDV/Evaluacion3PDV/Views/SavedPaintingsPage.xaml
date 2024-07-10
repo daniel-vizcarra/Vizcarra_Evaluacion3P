@@ -1,0 +1,22 @@
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Evaluacion3PDV.ViewModels"
+             x:Class="Evaluacion3PDV.Views.SavedPaintingsPage">
+    <ContentPage.BindingContext>
+        <local:DVPopularPaintingsViewModel />
+    </ContentPage.BindingContext>
+    <StackLayout>
+        <ListView ItemsSource="{Binding Paintings}">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <StackLayout>
+                            <Label Text="{Binding Title}" />
+                            <Image Source="{Binding ImageUrl}" />
+                        </StackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </StackLayout>
+</ContentPage>

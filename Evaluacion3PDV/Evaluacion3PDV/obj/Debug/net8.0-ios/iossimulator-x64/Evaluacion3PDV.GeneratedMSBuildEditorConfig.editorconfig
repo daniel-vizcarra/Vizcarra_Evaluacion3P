@@ -12,36 +12,60 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Evaluacion3PDV
-build_property.ProjectDir = C:\Users\cisco\source\repos\Evaluacion3PDV\Evaluacion3PDV\
+build_property.ProjectDir = C:\Users\cisco\Documents\GitHub\Vizcarra_Evaluacion3P\Evaluacion3PDV\Evaluacion3PDV\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 
-[C:/Users/cisco/source/repos/Evaluacion3PDV/Evaluacion3PDV/App.xaml]
+[C:/Users/cisco/Documents/GitHub/Vizcarra_Evaluacion3P/Evaluacion3PDV/Evaluacion3PDV/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Evaluacion3PDV.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[C:/Users/cisco/source/repos/Evaluacion3PDV/Evaluacion3PDV/AppShell.xaml]
+[C:/Users/cisco/Documents/GitHub/Vizcarra_Evaluacion3P/Evaluacion3PDV/Evaluacion3PDV/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Evaluacion3PDV.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[C:/Users/cisco/source/repos/Evaluacion3PDV/Evaluacion3PDV/MainPage.xaml]
+[C:/Users/cisco/Documents/GitHub/Vizcarra_Evaluacion3P/Evaluacion3PDV/Evaluacion3PDV/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Evaluacion3PDV.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
-[C:/Users/cisco/source/repos/Evaluacion3PDV/Evaluacion3PDV/Resources/Styles/Colors.xaml]
+[C:/Users/cisco/Documents/GitHub/Vizcarra_Evaluacion3P/Evaluacion3PDV/Evaluacion3PDV/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Evaluacion3PDV.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[C:/Users/cisco/source/repos/Evaluacion3PDV/Evaluacion3PDV/Resources/Styles/Styles.xaml]
+[C:/Users/cisco/Documents/GitHub/Vizcarra_Evaluacion3P/Evaluacion3PDV/Evaluacion3PDV/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Evaluacion3PDV.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Users/cisco/Documents/GitHub/Vizcarra_Evaluacion3P/Evaluacion3PDV/Evaluacion3PDV/Views/PopularArtistsPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Evaluacion3PDV.Views.PopularArtistsPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\PopularArtistsPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\PopularArtistsPage.xaml
+
+[C:/Users/cisco/Documents/GitHub/Vizcarra_Evaluacion3P/Evaluacion3PDV/Evaluacion3PDV/Views/PopularPaintingsPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Evaluacion3PDV.Views.PopularPaintingsPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\PopularPaintingsPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\PopularPaintingsPage.xaml
+
+[C:/Users/cisco/Documents/GitHub/Vizcarra_Evaluacion3P/Evaluacion3PDV/Evaluacion3PDV/Views/SavedArtistsPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Evaluacion3PDV.Views.SavedArtistsPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\SavedArtistsPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\SavedArtistsPage.xaml
+
+[C:/Users/cisco/Documents/GitHub/Vizcarra_Evaluacion3P/Evaluacion3PDV/Evaluacion3PDV/Views/SavedPaintingsPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Evaluacion3PDV.Views.SavedPaintingsPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\SavedPaintingsPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\SavedPaintingsPage.xaml

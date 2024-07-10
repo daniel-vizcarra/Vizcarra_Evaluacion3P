@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cisco\\source\\repos\\Evaluacion3PDV\\Evaluacion3PDV\\Evaluacion3PDV.csproj": {}
+    "C:\\Users\\cisco\\Documents\\GitHub\\Vizcarra_Evaluacion3P\\Evaluacion3PDV\\Evaluacion3PDV\\Evaluacion3PDV.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cisco\\source\\repos\\Evaluacion3PDV\\Evaluacion3PDV\\Evaluacion3PDV.csproj": {
+    "C:\\Users\\cisco\\Documents\\GitHub\\Vizcarra_Evaluacion3P\\Evaluacion3PDV\\Evaluacion3PDV\\Evaluacion3PDV.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cisco\\source\\repos\\Evaluacion3PDV\\Evaluacion3PDV\\Evaluacion3PDV.csproj",
+        "projectUniqueName": "C:\\Users\\cisco\\Documents\\GitHub\\Vizcarra_Evaluacion3P\\Evaluacion3PDV\\Evaluacion3PDV\\Evaluacion3PDV.csproj",
         "projectName": "Evaluacion3PDV",
-        "projectPath": "C:\\Users\\cisco\\source\\repos\\Evaluacion3PDV\\Evaluacion3PDV\\Evaluacion3PDV.csproj",
+        "projectPath": "C:\\Users\\cisco\\Documents\\GitHub\\Vizcarra_Evaluacion3P\\Evaluacion3PDV\\Evaluacion3PDV\\Evaluacion3PDV.csproj",
         "packagesPath": "C:\\Users\\cisco\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cisco\\source\\repos\\Evaluacion3PDV\\Evaluacion3PDV\\obj\\",
+        "outputPath": "C:\\Users\\cisco\\Documents\\GitHub\\Vizcarra_Evaluacion3P\\Evaluacion3PDV\\Evaluacion3PDV\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
@@ -83,6 +83,14 @@
               "target": "Package",
               "version": "[8.0.3, )",
               "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.9.172, )"
             }
           },
           "imports": [
@@ -126,6 +134,14 @@
               "target": "Package",
               "version": "[8.0.3, )",
               "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.9.172, )"
             }
           },
           "imports": [
@@ -169,6 +185,14 @@
               "target": "Package",
               "version": "[8.0.3, )",
               "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.9.172, )"
             }
           },
           "imports": [
@@ -207,6 +231,14 @@
             "Microsoft.Maui.Controls.Compatibility": {
               "target": "Package",
               "version": "[8.0.7, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.9.172, )"
             }
           },
           "imports": [
