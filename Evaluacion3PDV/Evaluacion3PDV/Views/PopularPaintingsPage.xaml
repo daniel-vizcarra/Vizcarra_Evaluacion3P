@@ -15,7 +15,7 @@
                         <StackLayout>
                             <Label Text="{Binding Title}" FontSize="Medium" />
                             <Image Source="{Binding Image}" HeightRequest="200" />
-                            <Button Text="Save" Command="{Binding Path=BindingContext.SavePaintingCommand, Source={RelativeSource AncestorType={x:Type ContentPage}}}" CommandParameter="{Binding .}" />
+                            <Button Text="Guardar" Command="{Binding Path=BindingContext.SavePaintingCommand, Source={RelativeSource AncestorType={x:Type ContentPage}}}" CommandParameter="{Binding .}" />
                         </StackLayout>
                     </ViewCell>
                 </DataTemplate>

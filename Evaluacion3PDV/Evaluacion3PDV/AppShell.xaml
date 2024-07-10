@@ -5,16 +5,16 @@
        Title="Evaluacion3PDV">
 
     <TabBar>
-        <Tab Title="Popular Paintings">
+        <Tab Title="Pinturas Populares">
             <ShellContent ContentTemplate="{DataTemplate local:PopularPaintingsPage}" />
         </Tab>
-        <Tab Title="Saved Paintings">
+        <Tab Title="Pinturas Guardadas">
             <ShellContent ContentTemplate="{DataTemplate local:SavedPaintingsPage}" />
         </Tab>
-        <Tab Title="Popular Artists">
+        <Tab Title="Artistas Populares">
             <ShellContent ContentTemplate="{DataTemplate local:PopularArtistsPage}" />
         </Tab>
-        <Tab Title="Saved Artists">
+        <Tab Title="Artistas Guardados">
             <ShellContent ContentTemplate="{DataTemplate local:SavedArtistsPage}" />
         </Tab>
     </TabBar>

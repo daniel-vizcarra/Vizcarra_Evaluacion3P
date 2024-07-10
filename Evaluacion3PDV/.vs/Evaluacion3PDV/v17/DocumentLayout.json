@@ -3,20 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\cisco\\Documents\\GitHub\\Vizcarra_Evaluacion3P\\Evaluacion3PDV\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6C6CC67D-C8E6-4571-BA6A-C8B881EFA5EE}|Evaluacion3PDV\\Evaluacion3PDV.csproj|c:\\users\\cisco\\documents\\github\\vizcarra_evaluacion3p\\evaluacion3pdv\\evaluacion3pdv\\views\\savedartistspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C6CC67D-C8E6-4571-BA6A-C8B881EFA5EE}|Evaluacion3PDV\\Evaluacion3PDV.csproj|solutionrelative:evaluacion3pdv\\views\\savedartistspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6C6CC67D-C8E6-4571-BA6A-C8B881EFA5EE}|Evaluacion3PDV\\Evaluacion3PDV.csproj|c:\\users\\cisco\\documents\\github\\vizcarra_evaluacion3p\\evaluacion3pdv\\evaluacion3pdv\\views\\popularartistspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{6C6CC67D-C8E6-4571-BA6A-C8B881EFA5EE}|Evaluacion3PDV\\Evaluacion3PDV.csproj|solutionrelative:evaluacion3pdv\\views\\popularartistspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6CC67D-C8E6-4571-BA6A-C8B881EFA5EE}|Evaluacion3PDV\\Evaluacion3PDV.csproj|c:\\users\\cisco\\documents\\github\\vizcarra_evaluacion3p\\evaluacion3pdv\\evaluacion3pdv\\views\\popularpaintingspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6C6CC67D-C8E6-4571-BA6A-C8B881EFA5EE}|Evaluacion3PDV\\Evaluacion3PDV.csproj|solutionrelative:evaluacion3pdv\\views\\popularpaintingspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6C6CC67D-C8E6-4571-BA6A-C8B881EFA5EE}|Evaluacion3PDV\\Evaluacion3PDV.csproj|c:\\users\\cisco\\documents\\github\\vizcarra_evaluacion3p\\evaluacion3pdv\\evaluacion3pdv\\views\\savedartistspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{6C6CC67D-C8E6-4571-BA6A-C8B881EFA5EE}|Evaluacion3PDV\\Evaluacion3PDV.csproj|solutionrelative:evaluacion3pdv\\views\\savedartistspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{6C6CC67D-C8E6-4571-BA6A-C8B881EFA5EE}|Evaluacion3PDV\\Evaluacion3PDV.csproj|c:\\users\\cisco\\documents\\github\\vizcarra_evaluacion3p\\evaluacion3pdv\\evaluacion3pdv\\views\\savedpaintingspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6C6CC67D-C8E6-4571-BA6A-C8B881EFA5EE}|Evaluacion3PDV\\Evaluacion3PDV.csproj|solutionrelative:evaluacion3pdv\\views\\savedpaintingspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6CC67D-C8E6-4571-BA6A-C8B881EFA5EE}|Evaluacion3PDV\\Evaluacion3PDV.csproj|c:\\users\\cisco\\documents\\github\\vizcarra_evaluacion3p\\evaluacion3pdv\\evaluacion3pdv\\viewmodels\\dvsavedartistsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6CC67D-C8E6-4571-BA6A-C8B881EFA5EE}|Evaluacion3PDV\\Evaluacion3PDV.csproj|solutionrelative:evaluacion3pdv\\viewmodels\\dvsavedartistsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6CC67D-C8E6-4571-BA6A-C8B881EFA5EE}|Evaluacion3PDV\\Evaluacion3PDV.csproj|c:\\users\\cisco\\documents\\github\\vizcarra_evaluacion3p\\evaluacion3pdv\\evaluacion3pdv\\viewmodels\\dvpopularpaintingsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6CC67D-C8E6-4571-BA6A-C8B881EFA5EE}|Evaluacion3PDV\\Evaluacion3PDV.csproj|solutionrelative:evaluacion3pdv\\viewmodels\\dvpopularpaintingsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6CC67D-C8E6-4571-BA6A-C8B881EFA5EE}|Evaluacion3PDV\\Evaluacion3PDV.csproj|c:\\users\\cisco\\documents\\github\\vizcarra_evaluacion3p\\evaluacion3pdv\\evaluacion3pdv\\viewmodels\\dvsavedpaintingsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6CC67D-C8E6-4571-BA6A-C8B881EFA5EE}|Evaluacion3PDV\\Evaluacion3PDV.csproj|solutionrelative:evaluacion3pdv\\viewmodels\\dvsavedpaintingsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6C6CC67D-C8E6-4571-BA6A-C8B881EFA5EE}|Evaluacion3PDV\\Evaluacion3PDV.csproj|c:\\users\\cisco\\documents\\github\\vizcarra_evaluacion3p\\evaluacion3pdv\\evaluacion3pdv\\viewmodels\\dvpopularartistsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C6CC67D-C8E6-4571-BA6A-C8B881EFA5EE}|Evaluacion3PDV\\Evaluacion3PDV.csproj|solutionrelative:evaluacion3pdv\\viewmodels\\dvpopularartistsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6CC67D-C8E6-4571-BA6A-C8B881EFA5EE}|Evaluacion3PDV\\Evaluacion3PDV.csproj|c:\\users\\cisco\\documents\\github\\vizcarra_evaluacion3p\\evaluacion3pdv\\evaluacion3pdv\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6C6CC67D-C8E6-4571-BA6A-C8B881EFA5EE}|Evaluacion3PDV\\Evaluacion3PDV.csproj|solutionrelative:evaluacion3pdv\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6CC67D-C8E6-4571-BA6A-C8B881EFA5EE}|Evaluacion3PDV\\Evaluacion3PDV.csproj|c:\\users\\cisco\\documents\\github\\vizcarra_evaluacion3p\\evaluacion3pdv\\evaluacion3pdv\\views\\savedartistspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6CC67D-C8E6-4571-BA6A-C8B881EFA5EE}|Evaluacion3PDV\\Evaluacion3PDV.csproj|solutionrelative:evaluacion3pdv\\views\\savedartistspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6C6CC67D-C8E6-4571-BA6A-C8B881EFA5EE}|Evaluacion3PDV\\Evaluacion3PDV.csproj|c:\\users\\cisco\\documents\\github\\vizcarra_evaluacion3p\\evaluacion3pdv\\evaluacion3pdv\\models\\dvartist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,32 +51,12 @@
       "RelativeMoniker": "D:0:0:{6C6CC67D-C8E6-4571-BA6A-C8B881EFA5EE}|Evaluacion3PDV\\Evaluacion3PDV.csproj|solutionrelative:evaluacion3pdv\\services\\dvdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C6CC67D-C8E6-4571-BA6A-C8B881EFA5EE}|Evaluacion3PDV\\Evaluacion3PDV.csproj|c:\\users\\cisco\\documents\\github\\vizcarra_evaluacion3p\\evaluacion3pdv\\evaluacion3pdv\\viewmodels\\dvsavedartistsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C6CC67D-C8E6-4571-BA6A-C8B881EFA5EE}|Evaluacion3PDV\\Evaluacion3PDV.csproj|solutionrelative:evaluacion3pdv\\viewmodels\\dvsavedartistsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6C6CC67D-C8E6-4571-BA6A-C8B881EFA5EE}|Evaluacion3PDV\\Evaluacion3PDV.csproj|c:\\users\\cisco\\documents\\github\\vizcarra_evaluacion3p\\evaluacion3pdv\\evaluacion3pdv\\views\\savedpaintingspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C6CC67D-C8E6-4571-BA6A-C8B881EFA5EE}|Evaluacion3PDV\\Evaluacion3PDV.csproj|solutionrelative:evaluacion3pdv\\views\\savedpaintingspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C6CC67D-C8E6-4571-BA6A-C8B881EFA5EE}|Evaluacion3PDV\\Evaluacion3PDV.csproj|c:\\users\\cisco\\documents\\github\\vizcarra_evaluacion3p\\evaluacion3pdv\\evaluacion3pdv\\views\\savedpaintingspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{6C6CC67D-C8E6-4571-BA6A-C8B881EFA5EE}|Evaluacion3PDV\\Evaluacion3PDV.csproj|solutionrelative:evaluacion3pdv\\views\\savedpaintingspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C6CC67D-C8E6-4571-BA6A-C8B881EFA5EE}|Evaluacion3PDV\\Evaluacion3PDV.csproj|c:\\users\\cisco\\documents\\github\\vizcarra_evaluacion3p\\evaluacion3pdv\\evaluacion3pdv\\viewmodels\\dvsavedpaintingsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C6CC67D-C8E6-4571-BA6A-C8B881EFA5EE}|Evaluacion3PDV\\Evaluacion3PDV.csproj|solutionrelative:evaluacion3pdv\\viewmodels\\dvsavedpaintingsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C6CC67D-C8E6-4571-BA6A-C8B881EFA5EE}|Evaluacion3PDV\\Evaluacion3PDV.csproj|c:\\users\\cisco\\documents\\github\\vizcarra_evaluacion3p\\evaluacion3pdv\\evaluacion3pdv\\viewmodels\\dvpopularpaintingsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C6CC67D-C8E6-4571-BA6A-C8B881EFA5EE}|Evaluacion3PDV\\Evaluacion3PDV.csproj|solutionrelative:evaluacion3pdv\\viewmodels\\dvpopularpaintingsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6C6CC67D-C8E6-4571-BA6A-C8B881EFA5EE}|Evaluacion3PDV\\Evaluacion3PDV.csproj|c:\\users\\cisco\\documents\\github\\vizcarra_evaluacion3p\\evaluacion3pdv\\evaluacion3pdv\\evaluacion3pdv.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{6C6CC67D-C8E6-4571-BA6A-C8B881EFA5EE}|Evaluacion3PDV\\Evaluacion3PDV.csproj|solutionrelative:evaluacion3pdv\\evaluacion3pdv.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C6CC67D-C8E6-4571-BA6A-C8B881EFA5EE}|Evaluacion3PDV\\Evaluacion3PDV.csproj|c:\\users\\cisco\\documents\\github\\vizcarra_evaluacion3p\\evaluacion3pdv\\evaluacion3pdv\\views\\popularpaintingspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{6C6CC67D-C8E6-4571-BA6A-C8B881EFA5EE}|Evaluacion3PDV\\Evaluacion3PDV.csproj|solutionrelative:evaluacion3pdv\\views\\popularpaintingspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6C6CC67D-C8E6-4571-BA6A-C8B881EFA5EE}|Evaluacion3PDV\\Evaluacion3PDV.csproj|c:\\users\\cisco\\documents\\github\\vizcarra_evaluacion3p\\evaluacion3pdv\\evaluacion3pdv\\models\\dvpainting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -65,10 +69,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{6C6CC67D-C8E6-4571-BA6A-C8B881EFA5EE}|Evaluacion3PDV\\Evaluacion3PDV.csproj|c:\\users\\cisco\\documents\\github\\vizcarra_evaluacion3p\\evaluacion3pdv\\evaluacion3pdv\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C6CC67D-C8E6-4571-BA6A-C8B881EFA5EE}|Evaluacion3PDV\\Evaluacion3PDV.csproj|solutionrelative:evaluacion3pdv\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C6CC67D-C8E6-4571-BA6A-C8B881EFA5EE}|Evaluacion3PDV\\Evaluacion3PDV.csproj|c:\\users\\cisco\\documents\\github\\vizcarra_evaluacion3p\\evaluacion3pdv\\evaluacion3pdv\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{6C6CC67D-C8E6-4571-BA6A-C8B881EFA5EE}|Evaluacion3PDV\\Evaluacion3PDV.csproj|solutionrelative:evaluacion3pdv\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6C6CC67D-C8E6-4571-BA6A-C8B881EFA5EE}|Evaluacion3PDV\\Evaluacion3PDV.csproj|c:\\users\\cisco\\documents\\github\\vizcarra_evaluacion3p\\evaluacion3pdv\\evaluacion3pdv\\views\\popularartistspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -94,24 +94,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DVPopularArtistsViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\cisco\\Documents\\GitHub\\Vizcarra_Evaluacion3P\\Evaluacion3PDV\\Evaluacion3PDV\\ViewModels\\DVPopularArtistsViewModel.cs",
-              "RelativeDocumentMoniker": "Evaluacion3PDV\\ViewModels\\DVPopularArtistsViewModel.cs",
-              "ToolTip": "C:\\Users\\cisco\\Documents\\GitHub\\Vizcarra_Evaluacion3P\\Evaluacion3PDV\\Evaluacion3PDV\\ViewModels\\DVPopularArtistsViewModel.cs",
-              "RelativeToolTip": "Evaluacion3PDV\\ViewModels\\DVPopularArtistsViewModel.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAADwv0cAAAAAAAAA",
+              "DocumentIndex": 4,
+              "Title": "DVSavedArtistsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\cisco\\Documents\\GitHub\\Vizcarra_Evaluacion3P\\Evaluacion3PDV\\Evaluacion3PDV\\ViewModels\\DVSavedArtistsViewModel.cs",
+              "RelativeDocumentMoniker": "Evaluacion3PDV\\ViewModels\\DVSavedArtistsViewModel.cs",
+              "ToolTip": "C:\\Users\\cisco\\Documents\\GitHub\\Vizcarra_Evaluacion3P\\Evaluacion3PDV\\Evaluacion3PDV\\ViewModels\\DVSavedArtistsViewModel.cs",
+              "RelativeToolTip": "Evaluacion3PDV\\ViewModels\\DVSavedArtistsViewModel.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAmwDYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T16:15:00.359Z",
+              "WhenOpened": "2024-07-10T16:56:01.213Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
+              "Title": "DVPopularPaintingsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\cisco\\Documents\\GitHub\\Vizcarra_Evaluacion3P\\Evaluacion3PDV\\Evaluacion3PDV\\ViewModels\\DVPopularPaintingsViewModel.cs",
+              "RelativeDocumentMoniker": "Evaluacion3PDV\\ViewModels\\DVPopularPaintingsViewModel.cs",
+              "ToolTip": "C:\\Users\\cisco\\Documents\\GitHub\\Vizcarra_Evaluacion3P\\Evaluacion3PDV\\Evaluacion3PDV\\ViewModels\\DVPopularPaintingsViewModel.cs",
+              "RelativeToolTip": "Evaluacion3PDV\\ViewModels\\DVPopularPaintingsViewModel.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAmwDwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T16:13:58.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DVSavedPaintingsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\cisco\\Documents\\GitHub\\Vizcarra_Evaluacion3P\\Evaluacion3PDV\\Evaluacion3PDV\\ViewModels\\DVSavedPaintingsViewModel.cs",
+              "RelativeDocumentMoniker": "Evaluacion3PDV\\ViewModels\\DVSavedPaintingsViewModel.cs",
+              "ToolTip": "C:\\Users\\cisco\\Documents\\GitHub\\Vizcarra_Evaluacion3P\\Evaluacion3PDV\\Evaluacion3PDV\\ViewModels\\DVSavedPaintingsViewModel.cs",
+              "RelativeToolTip": "Evaluacion3PDV\\ViewModels\\DVSavedPaintingsViewModel.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAA4wDYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T16:45:57.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "SavedPaintingsPage.xaml",
               "DocumentMoniker": "C:\\Users\\cisco\\Documents\\GitHub\\Vizcarra_Evaluacion3P\\Evaluacion3PDV\\Evaluacion3PDV\\Views\\SavedPaintingsPage.xaml",
               "RelativeDocumentMoniker": "Evaluacion3PDV\\Views\\SavedPaintingsPage.xaml",
@@ -120,19 +146,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-07-10T16:20:51.733Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SavedArtistsPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\cisco\\Documents\\GitHub\\Vizcarra_Evaluacion3P\\Evaluacion3PDV\\Evaluacion3PDV\\Views\\SavedArtistsPage.xaml.cs",
-              "RelativeDocumentMoniker": "Evaluacion3PDV\\Views\\SavedArtistsPage.xaml.cs",
-              "ToolTip": "C:\\Users\\cisco\\Documents\\GitHub\\Vizcarra_Evaluacion3P\\Evaluacion3PDV\\Evaluacion3PDV\\Views\\SavedArtistsPage.xaml.cs",
-              "RelativeToolTip": "Evaluacion3PDV\\Views\\SavedArtistsPage.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T16:28:45.781Z",
               "EditorCaption": ""
             },
             {
@@ -151,6 +164,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "PopularPaintingsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\cisco\\Documents\\GitHub\\Vizcarra_Evaluacion3P\\Evaluacion3PDV\\Evaluacion3PDV\\Views\\PopularPaintingsPage.xaml",
+              "RelativeDocumentMoniker": "Evaluacion3PDV\\Views\\PopularPaintingsPage.xaml",
+              "ToolTip": "C:\\Users\\cisco\\Documents\\GitHub\\Vizcarra_Evaluacion3P\\Evaluacion3PDV\\Evaluacion3PDV\\Views\\PopularPaintingsPage.xaml",
+              "RelativeToolTip": "Evaluacion3PDV\\Views\\PopularPaintingsPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-10T16:15:59.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "PopularArtistsPage.xaml",
               "DocumentMoniker": "C:\\Users\\cisco\\Documents\\GitHub\\Vizcarra_Evaluacion3P\\Evaluacion3PDV\\Evaluacion3PDV\\Views\\PopularArtistsPage.xaml",
               "RelativeDocumentMoniker": "Evaluacion3PDV\\Views\\PopularArtistsPage.xaml",
@@ -163,111 +189,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DVArtist.cs",
-              "DocumentMoniker": "C:\\Users\\cisco\\Documents\\GitHub\\Vizcarra_Evaluacion3P\\Evaluacion3PDV\\Evaluacion3PDV\\Models\\DVArtist.cs",
-              "RelativeDocumentMoniker": "Evaluacion3PDV\\Models\\DVArtist.cs",
-              "ToolTip": "C:\\Users\\cisco\\Documents\\GitHub\\Vizcarra_Evaluacion3P\\Evaluacion3PDV\\Evaluacion3PDV\\Models\\DVArtist.cs",
-              "RelativeToolTip": "Evaluacion3PDV\\Models\\DVArtist.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA1AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T16:10:31.576Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "DVSavedArtistsViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\cisco\\Documents\\GitHub\\Vizcarra_Evaluacion3P\\Evaluacion3PDV\\Evaluacion3PDV\\ViewModels\\DVSavedArtistsViewModel.cs",
-              "RelativeDocumentMoniker": "Evaluacion3PDV\\ViewModels\\DVSavedArtistsViewModel.cs",
-              "ToolTip": "C:\\Users\\cisco\\Documents\\GitHub\\Vizcarra_Evaluacion3P\\Evaluacion3PDV\\Evaluacion3PDV\\ViewModels\\DVSavedArtistsViewModel.cs",
-              "RelativeToolTip": "Evaluacion3PDV\\ViewModels\\DVSavedArtistsViewModel.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAADwvzYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T16:56:01.213Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DVDatabase.cs",
-              "DocumentMoniker": "C:\\Users\\cisco\\Documents\\GitHub\\Vizcarra_Evaluacion3P\\Evaluacion3PDV\\Evaluacion3PDV\\Services\\DVDatabase.cs",
-              "RelativeDocumentMoniker": "Evaluacion3PDV\\Services\\DVDatabase.cs",
-              "ToolTip": "C:\\Users\\cisco\\Documents\\GitHub\\Vizcarra_Evaluacion3P\\Evaluacion3PDV\\Evaluacion3PDV\\Services\\DVDatabase.cs",
-              "RelativeToolTip": "Evaluacion3PDV\\Services\\DVDatabase.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T16:11:51.01Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "PopularPaintingsPage.xaml",
-              "DocumentMoniker": "C:\\Users\\cisco\\Documents\\GitHub\\Vizcarra_Evaluacion3P\\Evaluacion3PDV\\Evaluacion3PDV\\Views\\PopularPaintingsPage.xaml",
-              "RelativeDocumentMoniker": "Evaluacion3PDV\\Views\\PopularPaintingsPage.xaml",
-              "ToolTip": "C:\\Users\\cisco\\Documents\\GitHub\\Vizcarra_Evaluacion3P\\Evaluacion3PDV\\Evaluacion3PDV\\Views\\PopularPaintingsPage.xaml",
-              "RelativeToolTip": "Evaluacion3PDV\\Views\\PopularPaintingsPage.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-07-10T16:15:59.898Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "DVPopularPaintingsViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\cisco\\Documents\\GitHub\\Vizcarra_Evaluacion3P\\Evaluacion3PDV\\Evaluacion3PDV\\ViewModels\\DVPopularPaintingsViewModel.cs",
-              "RelativeDocumentMoniker": "Evaluacion3PDV\\ViewModels\\DVPopularPaintingsViewModel.cs",
-              "ToolTip": "C:\\Users\\cisco\\Documents\\GitHub\\Vizcarra_Evaluacion3P\\Evaluacion3PDV\\Evaluacion3PDV\\ViewModels\\DVPopularPaintingsViewModel.cs",
-              "RelativeToolTip": "Evaluacion3PDV\\ViewModels\\DVPopularPaintingsViewModel.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAADwvzwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T16:13:58.837Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "DVSavedPaintingsViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\cisco\\Documents\\GitHub\\Vizcarra_Evaluacion3P\\Evaluacion3PDV\\Evaluacion3PDV\\ViewModels\\DVSavedPaintingsViewModel.cs",
-              "RelativeDocumentMoniker": "Evaluacion3PDV\\ViewModels\\DVSavedPaintingsViewModel.cs",
-              "ToolTip": "C:\\Users\\cisco\\Documents\\GitHub\\Vizcarra_Evaluacion3P\\Evaluacion3PDV\\Evaluacion3PDV\\ViewModels\\DVSavedPaintingsViewModel.cs",
-              "RelativeToolTip": "Evaluacion3PDV\\ViewModels\\DVSavedPaintingsViewModel.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAADwvzYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T16:45:57.96Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Evaluacion3PDV",
-              "DocumentMoniker": "C:\\Users\\cisco\\Documents\\GitHub\\Vizcarra_Evaluacion3P\\Evaluacion3PDV\\Evaluacion3PDV\\Evaluacion3PDV.csproj",
-              "RelativeDocumentMoniker": "Evaluacion3PDV\\Evaluacion3PDV.csproj",
-              "ToolTip": "C:\\Users\\cisco\\Documents\\GitHub\\Vizcarra_Evaluacion3P\\Evaluacion3PDV\\Evaluacion3PDV\\Evaluacion3PDV.csproj",
-              "RelativeToolTip": "Evaluacion3PDV\\Evaluacion3PDV.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-10T16:46:51.933Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "SavedPaintingsPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\cisco\\Documents\\GitHub\\Vizcarra_Evaluacion3P\\Evaluacion3PDV\\Evaluacion3PDV\\Views\\SavedPaintingsPage.xaml.cs",
-              "RelativeDocumentMoniker": "Evaluacion3PDV\\Views\\SavedPaintingsPage.xaml.cs",
-              "ToolTip": "C:\\Users\\cisco\\Documents\\GitHub\\Vizcarra_Evaluacion3P\\Evaluacion3PDV\\Evaluacion3PDV\\Views\\SavedPaintingsPage.xaml.cs",
-              "RelativeToolTip": "Evaluacion3PDV\\Views\\SavedPaintingsPage.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Title": "DVPopularArtistsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\cisco\\Documents\\GitHub\\Vizcarra_Evaluacion3P\\Evaluacion3PDV\\Evaluacion3PDV\\ViewModels\\DVPopularArtistsViewModel.cs",
+              "RelativeDocumentMoniker": "Evaluacion3PDV\\ViewModels\\DVPopularArtistsViewModel.cs",
+              "ToolTip": "C:\\Users\\cisco\\Documents\\GitHub\\Vizcarra_Evaluacion3P\\Evaluacion3PDV\\Evaluacion3PDV\\ViewModels\\DVPopularArtistsViewModel.cs",
+              "RelativeToolTip": "Evaluacion3PDV\\ViewModels\\DVPopularArtistsViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T16:28:15.062Z",
+              "WhenOpened": "2024-07-10T16:15:00.359Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 8,
               "Title": "AppShell.xaml",
               "DocumentMoniker": "C:\\Users\\cisco\\Documents\\GitHub\\Vizcarra_Evaluacion3P\\Evaluacion3PDV\\Evaluacion3PDV\\AppShell.xaml",
               "RelativeDocumentMoniker": "Evaluacion3PDV\\AppShell.xaml",
@@ -280,7 +215,72 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SavedArtistsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\cisco\\Documents\\GitHub\\Vizcarra_Evaluacion3P\\Evaluacion3PDV\\Evaluacion3PDV\\Views\\SavedArtistsPage.xaml.cs",
+              "RelativeDocumentMoniker": "Evaluacion3PDV\\Views\\SavedArtistsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\cisco\\Documents\\GitHub\\Vizcarra_Evaluacion3P\\Evaluacion3PDV\\Evaluacion3PDV\\Views\\SavedArtistsPage.xaml.cs",
+              "RelativeToolTip": "Evaluacion3PDV\\Views\\SavedArtistsPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T16:28:45.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DVDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\cisco\\Documents\\GitHub\\Vizcarra_Evaluacion3P\\Evaluacion3PDV\\Evaluacion3PDV\\Services\\DVDatabase.cs",
+              "RelativeDocumentMoniker": "Evaluacion3PDV\\Services\\DVDatabase.cs",
+              "ToolTip": "C:\\Users\\cisco\\Documents\\GitHub\\Vizcarra_Evaluacion3P\\Evaluacion3PDV\\Evaluacion3PDV\\Services\\DVDatabase.cs",
+              "RelativeToolTip": "Evaluacion3PDV\\Services\\DVDatabase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T16:11:51.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DVArtist.cs",
+              "DocumentMoniker": "C:\\Users\\cisco\\Documents\\GitHub\\Vizcarra_Evaluacion3P\\Evaluacion3PDV\\Evaluacion3PDV\\Models\\DVArtist.cs",
+              "RelativeDocumentMoniker": "Evaluacion3PDV\\Models\\DVArtist.cs",
+              "ToolTip": "C:\\Users\\cisco\\Documents\\GitHub\\Vizcarra_Evaluacion3P\\Evaluacion3PDV\\Evaluacion3PDV\\Models\\DVArtist.cs",
+              "RelativeToolTip": "Evaluacion3PDV\\Models\\DVArtist.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T16:10:31.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 13,
+              "Title": "Evaluacion3PDV.csproj",
+              "DocumentMoniker": "C:\\Users\\cisco\\Documents\\GitHub\\Vizcarra_Evaluacion3P\\Evaluacion3PDV\\Evaluacion3PDV\\Evaluacion3PDV.csproj",
+              "RelativeDocumentMoniker": "Evaluacion3PDV\\Evaluacion3PDV.csproj",
+              "ToolTip": "C:\\Users\\cisco\\Documents\\GitHub\\Vizcarra_Evaluacion3P\\Evaluacion3PDV\\Evaluacion3PDV\\Evaluacion3PDV.csproj",
+              "RelativeToolTip": "Evaluacion3PDV\\Evaluacion3PDV.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-10T16:46:51.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SavedPaintingsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\cisco\\Documents\\GitHub\\Vizcarra_Evaluacion3P\\Evaluacion3PDV\\Evaluacion3PDV\\Views\\SavedPaintingsPage.xaml.cs",
+              "RelativeDocumentMoniker": "Evaluacion3PDV\\Views\\SavedPaintingsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\cisco\\Documents\\GitHub\\Vizcarra_Evaluacion3P\\Evaluacion3PDV\\Evaluacion3PDV\\Views\\SavedPaintingsPage.xaml.cs",
+              "RelativeToolTip": "Evaluacion3PDV\\Views\\SavedPaintingsPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T16:28:15.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "DVPainting.cs",
               "DocumentMoniker": "C:\\Users\\cisco\\Documents\\GitHub\\Vizcarra_Evaluacion3P\\Evaluacion3PDV\\Evaluacion3PDV\\Models\\DVPainting.cs",
               "RelativeDocumentMoniker": "Evaluacion3PDV\\Models\\DVPainting.cs",
@@ -293,7 +293,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "AppShell.xaml.cs",
               "DocumentMoniker": "C:\\Users\\cisco\\Documents\\GitHub\\Vizcarra_Evaluacion3P\\Evaluacion3PDV\\Evaluacion3PDV\\AppShell.xaml.cs",
               "RelativeDocumentMoniker": "Evaluacion3PDV\\AppShell.xaml.cs",
@@ -306,7 +306,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "PopularPaintingsPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\cisco\\Documents\\GitHub\\Vizcarra_Evaluacion3P\\Evaluacion3PDV\\Evaluacion3PDV\\Views\\PopularPaintingsPage.xaml.cs",
               "RelativeDocumentMoniker": "Evaluacion3PDV\\Views\\PopularPaintingsPage.xaml.cs",

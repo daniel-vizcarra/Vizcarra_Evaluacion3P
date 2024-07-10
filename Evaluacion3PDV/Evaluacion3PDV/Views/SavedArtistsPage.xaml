@@ -15,7 +15,7 @@
                         <StackLayout>
                             <Label Text="{Binding ArtistName}" FontSize="Medium" />
                             <Image Source="{Binding Image}" HeightRequest="200" />
-                            <Button Text="Delete" Command="{Binding Path=BindingContext.DeleteArtistCommand, Source={RelativeSource AncestorType={x:Type ContentPage}}}" CommandParameter="{Binding .}" />
+                            <Button Text="Eliminar" Command="{Binding Path=BindingContext.DeleteArtistCommand, Source={RelativeSource AncestorType={x:Type ContentPage}}}" CommandParameter="{Binding .}" />
                         </StackLayout>
                     </ViewCell>
                 </DataTemplate>

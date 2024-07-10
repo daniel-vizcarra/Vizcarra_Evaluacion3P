@@ -42,13 +42,13 @@ namespace Evaluacion3PDV.ViewModels
             var existingPaintings = await App.Database.GetPaintingsAsync();
             if (existingPaintings.Any(p => p.Title == painting.Title))
             {
-                await Shell.Current.DisplayAlert("Error", "The painting is already saved!", "OK");
+                await Shell.Current.DisplayAlert("Error", "¡La pintura ya está guardada!", "OK");
                 return;
             }
 
             await App.Database.SavePaintingAsync(painting);
             MessagingCenter.Send(this, "UpdateSavedPaintings"); // Enviar un mensaje para actualizar la lista de pinturas guardadas
-            await Shell.Current.DisplayAlert("Saved", "The painting has been saved!", "OK");
+            await Shell.Current.DisplayAlert("Guardada", "¡La pintura ha sido guardada!", "OK");
         }
 
         public event PropertyChangedEventHandler PropertyChanged;

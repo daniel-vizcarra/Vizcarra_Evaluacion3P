@@ -29,7 +29,7 @@
     <AppXManifest Include="C:\Users\cisco\Documents\GitHub\Vizcarra_Evaluacion3P\Evaluacion3PDV\Evaluacion3PDV\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-07-10T17:02:59.255</Modified>
+      <Modified>2024-07-10T17:09:32.054</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -43,11 +43,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\cisco\Documents\GitHub\Vizcarra_Evaluacion3P\Evaluacion3PDV\Evaluacion3PDV\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Evaluacion3PDV.dll">
       <PackagePath>Evaluacion3PDV.dll</PackagePath>
-      <Modified>2024-07-10T17:02:58.856</Modified>
+      <Modified>2024-07-10T17:09:31.042</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\cisco\Documents\GitHub\Vizcarra_Evaluacion3P\Evaluacion3PDV\Evaluacion3PDV\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>Evaluacion3PDV.exe</PackagePath>
-      <Modified>2024-07-10T17:02:58.861</Modified>
+      <Modified>2024-07-10T17:09:31.057</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\cisco\Documents\GitHub\Vizcarra_Evaluacion3P\Evaluacion3PDV\Evaluacion3PDV\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>

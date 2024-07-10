@@ -42,7 +42,7 @@ namespace Evaluacion3PDV.ViewModels
         {
             await App.Database.DeleteArtistAsync(artist);
             SavedArtists.Remove(artist);
-            await Shell.Current.DisplayAlert("Deleted", "The artist has been deleted!", "OK");
+            await Shell.Current.DisplayAlert("Eliminado", "¡El artista ha sido eliminado!", "OK");
         }
 
         public event PropertyChangedEventHandler PropertyChanged;

@@ -42,7 +42,7 @@ namespace Evaluacion3PDV.ViewModels
         {
             await App.Database.DeletePaintingAsync(painting);
             SavedPaintings.Remove(painting);
-            await Shell.Current.DisplayAlert("Deleted", "The painting has been deleted!", "OK");
+            await Shell.Current.DisplayAlert("Eliminada", "¡La pintura ha sido eliminada!", "OK");
         }
 
         public event PropertyChangedEventHandler PropertyChanged;

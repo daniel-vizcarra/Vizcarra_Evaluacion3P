@@ -40,11 +40,11 @@ namespace Evaluacion3PDV.ViewModels
             }
             catch (JsonReaderException ex)
             {
-                await Shell.Current.DisplayAlert("Error", $"JSON error: {ex.Message}", "OK");
+                await Shell.Current.DisplayAlert("Error", $"Error en JSON: {ex.Message}", "OK");
             }
             catch (Exception ex)
             {
-                await Shell.Current.DisplayAlert("Error", $"Unexpected error: {ex.Message}", "OK");
+                await Shell.Current.DisplayAlert("Error", $"Error inesperado: {ex.Message}", "OK");
             }
         }
 
@@ -53,13 +53,13 @@ namespace Evaluacion3PDV.ViewModels
             var existingArtists = await App.Database.GetArtistsAsync();
             if (existingArtists.Any(a => a.ArtistName == artist.ArtistName))
             {
-                await Shell.Current.DisplayAlert("Error", "The artist is already saved!", "OK");
+                await Shell.Current.DisplayAlert("Error", "¡El artista ya está guardado!", "OK");
                 return;
             }
 
             await App.Database.SaveArtistAsync(artist);
             MessagingCenter.Send(this, "UpdateSavedArtists"); // Enviar un mensaje para actualizar la lista de artistas guardados
-            await Shell.Current.DisplayAlert("Saved", "The artist has been saved!", "OK");
+            await Shell.Current.DisplayAlert("Guardado", "¡El artista ha sido guardado!", "OK");
         }
 
         public event PropertyChangedEventHandler PropertyChanged;
